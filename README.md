@@ -5,4 +5,4 @@ To use this project, you need to have a simulink file, with a fuzzy controller t
 - Kernel and support of your membership function (this only works for trapezoidal membership function)
 - The conclusion of your rules.
 
-This project is not mature. There are plenty modifications to do and I advice you to not use it for your project but you can use some this code to build a self optimizer of FIS object. To run this project, you need the fuzzy system module of matlab.
+This project is not mature. There are plenty modifications to do and I advice you to not use it for your project but you can use some of this code to build a self optimizer of FIS object. To run this project, you need the fuzzy system module of matlab.
