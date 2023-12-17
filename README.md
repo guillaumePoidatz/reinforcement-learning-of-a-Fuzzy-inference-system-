@@ -6,3 +6,5 @@ To use this project, you need to have a simulink file, with a fuzzy controller t
 - The conclusion of your rules.
 
 This project is not mature. There are plenty modifications to do and I advice you to not use it for your project but you can use some of this code to build a self optimizer of FIS object. To run this project, you need the fuzzy system module of matlab.
+
+The current main program of this project is : "PSO_Fuzzy_Partition". Indeed, for the moment, just this option is implemented.
