@@ -1,4 +1,4 @@
-# reinforcement-learning-of-a-Fuzzy-inference-system-
+# self-optimization-of-a-Fuzzy-inference-system-
 This is a personal project of FIS (fuzzy inference system) optimisation. Using Particle swarm optimization and genetic algorithm
 
 To use this project, you need to have a simulink file, with a fuzzy controller to optimize. You need a first FIS different from the one inside your simulink. It will be the initial FIS. And you need of course and obective function to optimize. This system doesn't optimize the number of partition or the type of membership funtion. It optimizes :
